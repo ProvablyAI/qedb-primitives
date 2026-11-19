@@ -135,6 +135,8 @@ The toolchain (Rust 1.97) is pinned in `rust-toolchain.toml`. See
 - The range and sign checks prove that values are integers in `[0, 2^ℓ)`, with `ℓ` chosen by
   the caller (at most 254).
 
+Who maintains the project and how decisions are made is described in [GOVERNANCE.md](GOVERNANCE.md).
+
 ## License
 
 This project is licensed under the [Business Source License 1.1](LICENSE.md).
